@@ -9,4 +9,4 @@ In this project I have created BikeStore sql database and visualization for a re
 * 	Tools used: SQL Server Management Studio, Excel, Tableau.
 * 	Deliverables: Presentation of insights and findings to senior management.
 
-[embed]https://github.com/brwncupke/SQL-portfolio/blob/main/Sales%20Analysis/BikeStores.pdf[/embed]
+
