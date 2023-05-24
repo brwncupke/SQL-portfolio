@@ -9,4 +9,5 @@ In this project I have created BikeStore sql database and visualization for a re
 * 	Tools used: SQL Server Management Studio, Excel, Tableau.
 * 	Deliverables: Presentation of insights and findings to senior management.
 
-
+Here is the URL to my Tableau workbook 
+https://public.tableau.com/views/BikeStore_16849622976670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
